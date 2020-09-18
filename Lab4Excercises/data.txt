@@ -1,0 +1,13 @@
+Session 1
+Introduction to course, expected outcome
+Java Introduction: JDK, JRE, JVM Overview
+Get started with Java 8, eclipse (Must be installed Earlier, instruction send separately)
+Procedural programming: looping array examples, Dry run, 2 dimension array, stack
+Quiz
+Session 2
+Fundamental OOPs concepts: Abstraction, encapsulation, modularity, hierarchy
+classes and method, static variable, static methods
+Quiz
+Session 3
+Packages and visibility modifier: public, protected, private and default
+Inheritance
